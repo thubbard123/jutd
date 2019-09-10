@@ -1,0 +1,174 @@
+/*<meta sourceDocument="D:\FlareStudentSetup\Flare Training\files\about_firewalls.doc" />*/
+
+p
+{
+	margin-top: 10pt;
+	font-family: Arial;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+}
+
+ol
+{
+	margin-top: 10pt;
+	font-family: Arial;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+}
+
+ul
+{
+	margin-top: 10pt;
+	font-family: Arial;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+}
+
+li
+{
+	margin-top: 10pt;
+	font-family: Arial;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+}
+
+td
+{
+	margin-top: 10pt;
+	font-family: Arial;
+	vertical-align: top;
+}
+
+h1.Heading1
+{
+	page-break-after: avoid;
+	margin-top: 12pt;
+	margin-bottom: 3pt;
+	mc-heading-level: 1;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 18pt;
+}
+
+h2.Heading2
+{
+	page-break-after: avoid;
+	margin-top: 18pt;
+	margin-bottom: 3pt;
+	mc-heading-level: 2;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 12pt;
+}
+
+p.TableHead
+{
+	margin-top: 3pt;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 9pt;
+}
+
+p.TableText
+{
+	margin-top: 3pt;
+	margin-bottom: 3pt;
+	font-family: Arial;
+	font-size: 9pt;
+}
+
+h3.Heading3
+{
+	page-break-after: avoid;
+	margin-top: 18pt;
+	margin-bottom: 3pt;
+	mc-heading-level: 3;
+	font-family: Arial;
+	font-weight: normal;
+	font-size: 10pt;
+	text-decoration: underline;
+}
+
+p.Examples
+{
+	margin-top: 10pt;
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-top-color: black;
+	border-left-style: solid;
+	border-left-width: 1pt;
+	border-left-color: black;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: black;
+	border-right-style: solid;
+	border-right-width: 1pt;
+	border-right-color: black;
+	background-color: #F2F2F2;
+	margin-left: 5pt;
+	margin-right: 5pt;
+	font-family: Arial;
+}
+
+td.td_1
+{
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-top-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1pt;
+	border-left-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1pt;
+	border-right-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: #000000;
+}
+
+td.td_2
+{
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-top-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1pt;
+	border-right-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: #000000;
+}
+
+td.td_3
+{
+	border-left-style: solid;
+	border-left-width: 1pt;
+	border-left-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1pt;
+	border-right-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: #000000;
+}
+
+td.td_4
+{
+	border-right-style: solid;
+	border-right-width: 1pt;
+	border-right-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: #000000;
+}
+
+table.table_1
+{
+	border-collapse: collapse;
+}
+
+span.span_1
+{
+	font-weight: bold;
+}
+

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  GenerateWebSafeImages="false"
+  WebSafeFileExtension="png"
+  InsertMOTW="true"
+  ReplaceSpacesWithUnderscores="false"
+  UseEmptyAltText="true"
+  AutoSizeCaptureCaptions="true"
+  PreCompileScaledImages="false"
+  EquationsOutputType="SVG"
+  ConditionTagExpression=""
+  ServerEnabled="false">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>
